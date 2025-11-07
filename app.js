@@ -75,8 +75,8 @@ correct: 0
 },
 {
 id: 13,
-question: "If a bill is returned by the President and re-passed by the Parliament, he",
-options: ["has to sign it", "can send again", "can send to Supreme Court", "can reject it"],
+question: "After a bill is passed by the Parliament it is sent to the President for his assent, who can return it for reconsideration to the Lok Sabha. But if the bill is re-passed by the Parliament and sent to the President for his assent he",
+options: ["has to sign it", "can send the bill to the Parliament for reconsideration for the second time", "can submit the same to the people for referendum", "can get it nullified through the Supreme Court"],
 correct: 0
 },
 {
